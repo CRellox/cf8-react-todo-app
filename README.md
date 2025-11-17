@@ -1,18 +1,21 @@
 # CF8 React Todo App
 
-A simple React Todo app for practicing React fundamentals and state management.
+A simple React Todo app for managing daily tasks. 
+Built during Coding Factory classes to practice React state management and component architecture.
 
 ##  Features
 
-- Add new todos
-- Mark todos as complete
-- Delete todos
-- Filter tasks (all/active/completed)
-- Clean and responsive UI
+- Add new tasks
+- Mark tasks as complete/incomplete
+- Delete tasks
+- Filter tasks (All/Active/Completed)
+- Responsive and clean interface
+- Local storage persistence
 
 ##  Technologies
 
 - React
 - CSS3
 - HTML5
-- JavaScript
+- JavaScript (ES6+)
+- React Hooks (useState, useEffect)
